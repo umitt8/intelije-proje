@@ -8,5 +8,11 @@ public class Class01 {
         System.out.println("bugun hava gunesli");
 
         System.out.println("bugun hava yagisligit");
+
    }
-}
+
+        //master kodu
+
+    }
+
+
